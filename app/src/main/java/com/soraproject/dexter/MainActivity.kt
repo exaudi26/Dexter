@@ -28,6 +28,5 @@ class MainActivity : AppCompatActivity() {
 
         val adapter = CharacterAdapter(character)
         recyclerView.adapter = adapter
-        }
     }
 }
