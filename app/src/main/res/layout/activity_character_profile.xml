@@ -19,7 +19,8 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_gravity="center"
-        android:scaleType="fitCenter" />
+        android:scaleType="fitCenter"
+        android:paddingTop="10dp"/>
 
     <TextView
         android:id="@+id/characterProfileName"
@@ -30,42 +31,47 @@
         android:layout_gravity="center"
         android:paddingTop="8dp" />
 
-    <!-- Add new TextViews for each additional field -->
     <TextView android:id="@+id/characterProfileQuote"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp"/>
     <TextView android:id="@+id/characterProfileActor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp"/>
     <TextView android:id="@+id/characterProfileBirthday"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp" />
     <TextView android:id="@+id/characterProfileGender"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp"/>
     <TextView android:id="@+id/characterProfileStatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp"/>
     <TextView android:id="@+id/characterProfileAffiliation"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_gravity="center"
+        android:textAlignment="center"
         android:layout_marginTop="16dp"/>
 
 </LinearLayout>

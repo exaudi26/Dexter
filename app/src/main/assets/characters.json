@@ -2,51 +2,111 @@
   {
     "name": "Dexter Morgan",
     "image": "dexter_morgan",
-    "quote": "I have a dark passenger.",
+    "quote": "Sometimes, I wonder what it would be like for everything inside me that's denied and unknown to be revealed. But I'll never know. I live my life in hiding. My survival depends on it.",
     "actor": "Michael C. Hall",
-    "birthday": "February 1, 1971",
+    "birthday": "1 February 1971",
     "gender": "Male",
-    "status": "Forensic Analyst",
-    "affiliation": "Miami Metro Police Department"
+    "status": "Blood Spatter Analyst",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
   },
   {
-    "name": "Dexter Morgan",
-    "image": "dexter_morgan",
-    "quote": "I have a dark passenger.",
-    "actor": "Michael C. Hall",
-    "birthday": "February 1, 1971",
-    "gender": "Male",
-    "status": "Forensic Analyst",
-    "affiliation": "Miami Metro Police Department"
+    "name": "Debra Morgan",
+    "image": "debra_morgan",
+    "quote": "Dex, you are all the family that I have, and I barely know you. So, if you're going to eat steaks with somebody after a rough day, somebody's going to break through your fucking walls, I think it should be me! I think I have earned it!",
+    "actor": "Jennifer Carpenter",
+    "birthday": "7 December 1979",
+    "gender": "Female",
+    "status": "Lieutenant (Formerly Detective (Formerly Officer))",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
   },
   {
-    "name": "Dexter Morgan",
-    "image": "dexter_morgan",
-    "quote": "I have a dark passenger.",
-    "actor": "Michael C. Hall",
-    "birthday": "February 1, 1971",
+    "name": "Vincent Masuka",
+    "image": "vincent_masuka",
+    "quote": " I got a reputation to live up to: I mean, if my show doesn't make people vomit and have an e******n at the same time, then I've let my audience down.",
+    "actor": "C.S. Lee",
+    "birthday": "Unknown",
     "gender": "Male",
-    "status": "Forensic Analyst",
-    "affiliation": "Miami Metro Police Department"
+    "status": "Forensic Specialist",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
   },
   {
-    "name": "Dexter Morgan",
-    "image": "dexter_morgan",
-    "quote": "I have a dark passenger.",
-    "actor": "Michael C. Hall",
-    "birthday": "February 1, 1971",
+    "name": "Angel Batista",
+    "image": "angel_batista",
+    "quote": "La Passion.",
+    "actor": "David Zayas",
+    "birthday": "Unknown",
     "gender": "Male",
-    "status": "Forensic Analyst",
-    "affiliation": "Miami Metro Police Department"
+    "status": "Sergeant (Formerly Detective)",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
   },
   {
-    "name": "Dexter Morgan",
-    "image": "dexter_morgan",
-    "quote": "I have a dark passenger.",
-    "actor": "Michael C. Hall",
-    "birthday": "February 1, 1971",
+    "name": "James Doakes",
+    "image": "james_doakes",
+    "quote": "Suprise m**********r!",
+    "actor": "Erik King",
+    "birthday": "10 March 1962",
     "gender": "Male",
-    "status": "Forensic Analyst",
-    "affiliation": "Miami Metro Police Department"
+    "status": "Detective Sergeant (Deceased)",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
+  },
+  {
+    "name": "Harry Morgan",
+    "image": "harry_morgan",
+    "quote": "When I'm gone I won't be able to stop you from being who you are. Sooner or later you'll need to do it. Just remember our lessons.",
+    "actor": "James Remar",
+    "birthday": "Unknown",
+    "gender": "Male",
+    "status": "Homicide Detective (Deceased)",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
+  },
+  {
+    "name": "Maria LaGuerta",
+    "image": "maria_laguerta",
+    "quote": "I lost a relationship because of this job and I take great comfort in the pure objectivity of numbers… Improve your numbers and everything will change, I promise you.”",
+    "actor": "Lauren Velez",
+    "birthday": "10 March 1962",
+    "gender": "Female",
+    "status": "Captain (Formerly Lieutenant)",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
+  },
+  {
+    "name": "Rita Morgan (Formerly Bennett)",
+    "image": "rita_morgan",
+    "quote": "I can’t help it. I kill things.",
+    "actor": "Julie Benz",
+    "birthday": "19 April 1973",
+    "gender": "Female",
+    "status": "Hotel Concierge (Formerly)",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
+  },
+  {
+    "name": "Joey Quinn",
+    "image": "joey_quinn",
+    "quote": "I do dumb things. I’m a dumb guy. But the one thing I did right was to get you to almost like me.",
+    "actor": "Desmond Harrington",
+    "birthday": "Unknown",
+    "gender": "Male",
+    "status": "Detective",
+    "affiliation": "Miami Metro Police Department (Miami Metro Homicide)"
+  },
+  {
+    "name": "Brian Moser",
+    "image": "brian_moser",
+    "quote": "Hey, little brother. Miss me?",
+    "actor": "Christian Camargo",
+    "birthday": "17 July 1968",
+    "gender": "Male",
+    "status": "Serial Killer",
+    "affiliation": "The Ice Truck Killer"
+  },
+  {
+    "name": "Arthur Mitchell",
+    "image": "arthur_mitchell",
+    "quote": "You can't control the demon inside of you any more than I could control mine.",
+    "actor": "John Lithgow",
+    "birthday": "16 October 1945",
+    "gender": "Male",
+    "status": "Serial Killer",
+    "affiliation": "The Trinity Killer"
   }
 ]
